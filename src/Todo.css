@@ -1,0 +1,28 @@
+h1{
+ font-weight: 25;
+ font-size: 5em;
+ font-family:fantasy;
+ color:white;
+}
+.todo{
+    justify-content:center;
+    color:white;
+    display:flex;
+    flex-direction: row;
+    background-color: rgb(24, 19, 19);
+    margin:10px;
+    }
+
+ .deleteBtn{
+      margin-left: auto;
+     
+    }
+    input[type=text] {
+    width: 60%;
+    padding: 10px 15px;
+    margin: 7px 5px;
+    box-sizing: border-box;  
+}
+addBtn{
+    font-size: 24px;
+}
